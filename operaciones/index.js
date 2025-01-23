@@ -8,7 +8,7 @@ function suma(...valors) {
 
 }
 
-
+  
 /**
  * Aquesta funcio multiplica tots els valors passats per parametre
  * 
